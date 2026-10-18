@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSEkatkat", "HSEkatkat\HSEkatkat.csproj", "{C5114973-AA27-4BC9-9FDC-025509AA6769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSEkatkat.Tests", "HSEkatkat.Tests\HSEkatkat.Tests.csproj", "{91E2A526-48A2-48F0-88D4-ECC610771ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5114973-AA27-4BC9-9FDC-025509AA6769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5114973-AA27-4BC9-9FDC-025509AA6769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5114973-AA27-4BC9-9FDC-025509AA6769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5114973-AA27-4BC9-9FDC-025509AA6769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E2A526-48A2-48F0-88D4-ECC610771ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E2A526-48A2-48F0-88D4-ECC610771ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E2A526-48A2-48F0-88D4-ECC610771ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E2A526-48A2-48F0-88D4-ECC610771ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
